@@ -1,0 +1,1 @@
+console.log("Bạn có thể", a < 18 ? "Bạn chưa thể lái xe" : "LAI XE");
